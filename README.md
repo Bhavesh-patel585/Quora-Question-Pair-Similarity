@@ -1,4 +1,5 @@
 # Quora-Question-Pair-Similarity
+deployed model link http://ec2-13-127-132-46.ap-south-1.compute.amazonaws.com:5858/
 
 ## Description
 Quora is a place to gain and share knowledge—about anything. It’s a platform to ask questions and connect with people who contribute unique insights and quality answers. This empowers people to learn from each other and to better understand the world.
